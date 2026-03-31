@@ -1,0 +1,7 @@
+aiogram
+sqlalchemy
+aiosqlite
+apscheduler
+python-dotenv
+pyrogram
+cryptg
